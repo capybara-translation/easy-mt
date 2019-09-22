@@ -2,6 +2,8 @@
 
 easy-mt is a simple machine translation API client.
 
+![easy-mt](https://user-images.githubusercontent.com/9638290/65384359-5daf2580-dd5c-11e9-8c85-4f99b97741cd.png)
+
 
 #### Build Setup
 
